@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá, eu sou o Luan Victor!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
