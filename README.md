@@ -32,8 +32,8 @@
 ---
 
 ### 📫 Como me encontrar:
-[![www.linkedin.com/in/luan-mattos98](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_LINKEDIN)
-[![luanvsantana98@gmail.com](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL)
+[![www.linkedin.com/in/luan-mattos98](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/luan-mattos98)
+[![luanvsantana98@gmail.com](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:luanvsantana98@gmail.com)
 
 ---
 
