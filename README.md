@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Luan Victor!
 
 🎓 Sou formado em **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **Tecnologia**, principalmente a área de **Dados e SQL**  
+💻 Apaixonado por **Tecnologia**, principalmente a área de **Dados**  
 🚀 Buscando sempre aprender e criar soluções criativas com código e data analysis.
 
 ---
