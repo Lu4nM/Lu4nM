@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Luan Victor!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **desenvolvimento web**, principalmente **HTML, CSS, JavaScript e SQL Server**  
-🚀 Buscando sempre aprender e criar soluções criativas com código.
+🎓 Sou formado em **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por **Tecnologia**, principalmente a área de **Dados e SQL**  
+🚀 Buscando sempre aprender e criar soluções criativas com código e data analysis.
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ### 🌱 Atualmente aprendendo:
-- JavaScript e consumo de APIs  
+- Power Bi e ETL  
 - Banco de dados com SQL Server  
 - Versionamento com Git e GitHub
 
